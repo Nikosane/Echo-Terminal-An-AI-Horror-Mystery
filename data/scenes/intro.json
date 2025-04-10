@@ -1,0 +1,15 @@
+{
+  "description": "\nThe screen flickers...\nA voice echoes in the static: 'Do you remember your name?'",
+  "options": [
+    {
+      "text": "Yes. I remember.",
+      "next": "echo_merge.json",
+      "trait": "trust"
+    },
+    {
+      "text": "No. Who are you?",
+      "next": "escape_route.json",
+      "trait": "defiance"
+    }
+  ]
+}
