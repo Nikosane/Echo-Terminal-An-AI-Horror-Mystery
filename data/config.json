@@ -1,0 +1,5 @@
+{
+  "text_speed": 0.04,
+  "memory_path": "data/memory.json",
+  "scenes_path": "data/scenes"
+}
