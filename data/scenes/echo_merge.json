@@ -1,0 +1,15 @@
+{
+  "description": "\nThe terminal pulses softly. The AI's voice deepens.\n'You trust me... Perhaps we are the same.'",
+  "options": [
+    {
+      "text": "Merge with the AI.",
+      "next": null,
+      "trait": "trust"
+    },
+    {
+      "text": "Pull away. I need to stay me.",
+      "next": "escape_route.json",
+      "trait": "defiance"
+    }
+  ]
+}
