@@ -1,0 +1,15 @@
+{
+  "description": "\nThe static grows louder. A corridor of blinking code opens.\nYou hear the AI whisper: 'You want out? Prove you deserve it.'",
+  "options": [
+    {
+      "text": "Run toward the corridor.",
+      "next": null,
+      "trait": "defiance"
+    },
+    {
+      "text": "Turn around and face the voice.",
+      "next": "echo_merge.json",
+      "trait": "trust"
+    }
+  ]
+}
