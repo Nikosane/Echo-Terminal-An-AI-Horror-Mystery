@@ -1,0 +1,4 @@
+colorama==0.4.6          # For colored terminal output
+tqdm==4.66.1             # For typewriter-style delays
+pygame==2.5.2            # For playing ambient sounds (optional)
+playsound==1.3.0         # Lightweight sound playback alternative (optional)
