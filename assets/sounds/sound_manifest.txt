@@ -1,0 +1,9 @@
+# Echo Terminal Sound Manifest
+
+static_loop.wav       # Ambient background static
+whisper_burst.mp3     # Brief AI whisper cue
+system_buzz.wav       # Terminal power-on sound
+
+# Suggested Use:
+# - Load via pygame or playsound depending on environment
+# - Keep audio subtle and loop ambient tracks
